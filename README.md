@@ -85,9 +85,18 @@
 
 [Documentación](https://learn.microsoft.com/en-us/azure/service-bus-messaging/)
 
+[Lab](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_10.html)
+
+Explicación de algunos conceptos avanzados de la capa Premium:
+
+https://www.youtube.com/watch?v=Gd3Oas8JToU&t=914s
+
 # INSTRUMENTACIÓN DE SOLUCIONES PARA ADMITIR LA SUPERVISIÓN Y EL REGISTRO
 
 # INTEGRACIÓN DEL ALMACENAMIENTO EN CACHÉ Y ENTREGA DE CONTENIDO DENTRO DE SOLUCIONES.
 
+***
 
-[Labs](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/)
+# LABS
+
+https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/
