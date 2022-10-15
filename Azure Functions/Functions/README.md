@@ -95,5 +95,5 @@ As Azure Functions uses an event-based architecture, there are many interesting 
 ## References:
 - [Product](https://azure.microsoft.com/en-us/products/functions/)
 - [Documentation](https://learn.microsoft.com/es-es/azure/azure-functions/)
-- [MS Learn](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&products=azure-functions)
-- [To amplify...](https://learn.microsoft.com/en-us/training/paths/create-serverless-applications/)
+- [MS Learn resources](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&products=azure-functions)
+- [Create serverless applications path](https://learn.microsoft.com/en-us/training/paths/create-serverless-applications/)
