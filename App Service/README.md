@@ -12,7 +12,7 @@ Azure App Service is an HTTP-based service for hosting web applications, REST AP
 
 Exercises:
 - [Exercise: Create a static HTML web app by using Azure Cloud Shell](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/7-create-html-web-app) 
-- [Lab](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_01.html) :white_check_mark:
+- [Lab 01](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_01.html) :white_check_mark:
 
 
 References:

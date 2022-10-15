@@ -3,7 +3,7 @@
 
 Exercises:
 - [Create a backend API](https://learn.microsoft.com/en-us/training/modules/explore-api-management/8-import-api) 
-- [Lab](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_08.html) :white_check_mark:
+- [Lab 08](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_08.html) :white_check_mark:
 
 
 References:

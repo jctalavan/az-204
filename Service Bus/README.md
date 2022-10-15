@@ -4,7 +4,7 @@
 
 [Documentación](https://learn.microsoft.com/en-us/azure/service-bus-messaging/)
 
-[Lab](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_10.html) :white_check_mark:
+[Lab 10](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_10.html) :white_check_mark:
 
 Explicación de algunos conceptos avanzados de la capa Premium:
 
