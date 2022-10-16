@@ -60,6 +60,9 @@ APIM provides security and routing for your HTTP triggered function endpoints as
 ## Azure Functions Deployment slots
 Azure Functions deployment slots allow your function app to run different instances called "slots". Slots are different environments exposed via a publicly available endpoint. Slots provide a way for you to test a new version of your functions in Azure in a safe environment and then seamlessly swap the new version into production.
 
+> **Note**
+> Only available with the "App Service Plan" hosting.
+
 ## Manage Azure Function configuration
 Connection strings, environment variables, and other application settings are defined separately for each function app. The function app settings values can be read in the code as environment variables. [More info](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-azure-function-app-settings?tabs=portal)
 
