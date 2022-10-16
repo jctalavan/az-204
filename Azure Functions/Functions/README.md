@@ -89,7 +89,7 @@ As Azure Functions uses an event-based architecture, there are many interesting 
 
 ## Exercises:
 - [Create a function app in the Azure portal](https://learn.microsoft.com/en-us/training/modules/create-serverless-logic-with-azure-functions/3-create-an-azure-functions-app-in-the-azure-portal?source=learn&pivots=javascript) 
-- [Lab 02](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_02.html) 
+- [Lab 02: Implement task processing logic by using Azure Functions](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_02.html) :white_check_mark:
 
 
 ## References:
