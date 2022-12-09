@@ -8,6 +8,13 @@ Azure Cosmos DB is a fully managed NoSQL database for modern app development. Si
 - [GREMLIN API.](./GREMLIN_API/README.md)  
 - [TABLE API.](./TABLE_API/README.md)  
 
+Explanation about *globally distributed data*:
+* https://learn.microsoft.com/en-us/azure/cosmos-db/distribute-data-globally
+
+Explanation about *consistency levels*:  
+* https://learn.microsoft.com/en-us/azure/cosmos-db/consistency-levels  
+* https://dev.to/jeremylikness/getting-behind-the-9-ball-cosmosdb-consistency-levels-2jgg  
+
 Exercises:
 
 - [Lab](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_04.html) :white_check_mark:
