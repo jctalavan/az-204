@@ -12,6 +12,14 @@ Exercises:
 
 - [Lab](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_04.html) :white_check_mark:
 
+Other interesting resources:
+- [Conectarse a Azure Cosmos DB for NoSQL con el SDK](https://learn.microsoft.com/es-es/training/paths/connect-to-azure-cosmos-db-sql-api-sdk/)
+- [Optimización del rendimiento de las consultas y las operaciones en Azure Cosmos DB for NoSQL](https://learn.microsoft.com/es-es/training/paths/optimize-query-performance-azure-cosmos-db-sql-api/)
+- [Ejecución de consultas en Azure Cosmos DB for NoSQL](https://learn.microsoft.com/es-es/training/paths/execute-queries-azure-cosmos-db-sql-api/)
+- [Personalización de índices en la API de SQL de Azure Cosmos DB](https://learn.microsoft.com/es-es/training/modules/customize-indexes-azure-cosmos-db-sql-api/)
+- [Diseño e implementación de una estrategia de replicación para Azure Cosmos DB for NoSQL](https://learn.microsoft.com/es-es/training/paths/design-implement-replication-strategy-cosmos-db-sql-api/)
+- [All resources available at MS Learn](https://learn.microsoft.com/es-es/training/browse/?terms=cosmos)
+
 
 References:
 
